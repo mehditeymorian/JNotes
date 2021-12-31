@@ -147,7 +147,9 @@ ax2.plot(xs2,ys2)
 
 
 
-    
+# Result
+1. First graph demonstrates average fitness over generations.
+2. In the second one generation size is being displayed.
 ![png](output_5_2.png)
     
 
