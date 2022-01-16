@@ -4,6 +4,7 @@ My Jupyter Notebooks 📑🧾
 # Content
 - [Stackoverflow Users Similarities](https://github.com/mehditeymorian/JNotes/tree/main/stackoverflow-user-similarity)
 - [Equation Minimization Using Genetic Algorithm](https://github.com/mehditeymorian/JNotes/tree/main/equationMinimizationGeneticAlgorithm)
+- [Tag Recommendation for Stackoverflow Questions](https://github.com/mehditeymorian/JNotes/tree/main/stackoverflow)
 
 
 ## Stackoverflow Users Similarities
