@@ -1,5 +1,5 @@
 # Tag Recommendation for Stackoverflow Questions
-A matrix of tags is created and filled by Confidence(Tag1, Tag2) which is used to measure similarity and closeness of two tags. [Confidence](https://en.wikipedia.org/wiki/Association_rule_learning#Confidence) is a type of association rule for calculating closeness of items in a dataset. Confidence is the percentage of all transactions satisfying X that also satisfy Y.                      
+A matrix of tags is created and filled by Confidence(Tag1, Tag2). [Confidence](https://en.wikipedia.org/wiki/Association_rule_learning#Confidence) is a type of association rule for calculating closeness of items in a dataset. Confidence is the percentage of all transactions satisfying X that also satisfy Y.                      
 ![confidence image](https://wikimedia.org/api/rest_v1/media/math/render/svg/56af28fde7223928b137f59d5cb1ce9bd62ce33b)
 
 
