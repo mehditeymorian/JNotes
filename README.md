@@ -5,6 +5,7 @@ My Jupyter Notebooks 📑🧾
 - [Stackoverflow Users Similarities](https://github.com/mehditeymorian/JNotes/tree/main/stackoverflow-user-similarity)
 - [Equation Minimization Using Genetic Algorithm](https://github.com/mehditeymorian/JNotes/tree/main/equationMinimizationGeneticAlgorithm)
 - [Tag Recommendation for Stackoverflow Questions](https://github.com/mehditeymorian/JNotes/tree/main/stackoverflow)
+- [Polynomial Approximation using Genetic Algorithms](https://github.com/mehditeymorian/JNotes/tree/main/genetics/polynomial-approximation)
 
 
 ## Stackoverflow Users Similarities
@@ -17,3 +18,9 @@ Starting from an initial population, chromosomes evolve through generations and 
 
 ## Tag Recommendation for Stackoverflow Questions
 A matrix of tags is created and filled by Confidence(Tag1, Tag2). [Confidence](https://en.wikipedia.org/wiki/Association_rule_learning#Confidence) is a type of association rule for calculating closeness of items in a dataset. Confidence is the percentage of all transactions satisfying X that also satisfy Y. [Full Detail](https://github.com/mehditeymorian/JNotes/tree/main/stackoverflow)
+
+## Polynomial Approximation using Genetic Algorithms
+Each gene consists of 2 number, one is coefficient and the other is x's power. A chromosomes has many genes which forms a polynomial. for example `1 2 1 3` represent `X^2 + X^3`. Starting from a population of chromosomes, we calculate the difference between the expected polynomial and current one. Then those with highest difference get eliminated.
+the process will repeat until a good answer is reached. [Full Detail](https://github.com/mehditeymorian/JNotes/tree/main/genetics/polynomial-approximation)
+
+![process](https://github.com/mehditeymorian/JNotes/blob/main/genetics/polynomial-approximation/assets/1.gif)
