@@ -9,6 +9,7 @@ My Jupyter Notebooks 📑🧾
 - [House Price Prediction Decision Tree](house-price-prediction/predict-house-prices.ipynb)
 - [Cancer Classification using Regression](cancer-classification/cancer_regression.ipynb)
 - [CIFAR10 Image Classification using CNN](cifar10-image-classification/cnn-image-classifier.ipynb)
+- [MNIST3 Digit Recognition](mnist3-digit-recognition/digit-recognition.ipynb)
 
 ## Stackoverflow Users Similarities
 Calculating Jaccord, Cosine L1NORM, and Cosine L2NORM similarities for top 5 Stackoverflow users based on their votes on questions. [Full Detail](https://github.com/mehditeymorian/JNotes/tree/main/stackoverflow-user-similarity)
