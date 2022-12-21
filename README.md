@@ -7,6 +7,7 @@ My Jupyter Notebooks 📑🧾
 - [Tag Recommendation for Stackoverflow Questions](https://github.com/mehditeymorian/JNotes/tree/main/stackoverflow)
 - [Polynomial Approximation using Genetic Algorithms](https://github.com/mehditeymorian/JNotes/tree/main/genetics/polynomial-approximation)
 - [House Price Prediction Decision Tree](house-price-prediction/predict-house-prices.ipynb)
+- [Cancer Classification using Regression](cancer-classification/cancer_regression.ipynb)
 
 ## Stackoverflow Users Similarities
 Calculating Jaccord, Cosine L1NORM, and Cosine L2NORM similarities for top 5 Stackoverflow users based on their votes on questions. [Full Detail](https://github.com/mehditeymorian/JNotes/tree/main/stackoverflow-user-similarity)
